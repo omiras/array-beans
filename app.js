@@ -1,4 +1,4 @@
-function filtrarCafe(beans, prices) {
+function filtrarCafe(budget, prices) {
    
 }
 console.log(filtrarCafe(3, [6, 1, 2, 9, 2]), [1, 2, 2]);
